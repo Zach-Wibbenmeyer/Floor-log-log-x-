@@ -1,0 +1,12 @@
+C:\Users\Zach Wibbenmeyer\workspace\cs212\prog1\prog1\bin\Debug\prog1.exe.config
+C:\Users\Zach Wibbenmeyer\workspace\cs212\prog1\prog1\bin\Debug\prog1.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\prog1\prog1\bin\Debug\prog1.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\prog1\prog1\obj\Debug\prog1.csprojResolveAssemblyReference.cache
+C:\Users\Zach Wibbenmeyer\workspace\cs212\prog1\prog1\obj\Debug\prog1.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\prog1\prog1\obj\Debug\prog1.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog1\prog1\bin\Debug\prog1.exe.config
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog1\prog1\obj\Debug\prog1.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog1\prog1\obj\Debug\prog1.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog1\prog1\bin\Debug\prog1.exe
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog1\prog1\bin\Debug\prog1.pdb
+C:\Users\Zach Wibbenmeyer\workspace\cs212\projects\prog1\prog1\obj\Debug\prog1.csprojResolveAssemblyReference.cache
